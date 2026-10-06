@@ -1,0 +1,6 @@
+{
+  "name": "VetDosis Pro",
+  "description": "App veterinaria para cálculo de dosis, protocolos anestésicos, constantes fisiológicas, hospitalización con alertas, recetas con membrete y exportación en PDF, inventario y asistente clínico con IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
